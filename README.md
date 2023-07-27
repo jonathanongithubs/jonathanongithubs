@@ -1,7 +1,7 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)](https://rishavchanda.io)
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jonathan Simanjuntak</h1>
 <h3 align="center">"Student by day, coder by heart."</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanongithubs&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanongithubs" /> </p>
 
 - 🔭 I’m currently working on **Metromatika**
